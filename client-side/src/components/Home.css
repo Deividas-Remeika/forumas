@@ -1,0 +1,40 @@
+.homeDiv {
+  margin: 0 auto;
+  width: 1000px;
+}
+.postsDiv {
+  background-color: #dee2e6;
+  border-radius: 8px;
+  padding-bottom: 6px;
+}
+
+.answers {
+  margin-left: 12px;
+}
+
+.titleName {
+  background-color: #99e9f2;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.newTheme {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.newTheme button {
+  width: 450px;
+  background-color: #51cf66;
+  border: none;
+  border-radius: 8px;
+  padding: 16px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: all ease 0.5s;
+}
+
+.newTheme button:hover {
+  background-color: #8ce99a;
+}
