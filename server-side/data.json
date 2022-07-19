@@ -11,6 +11,12 @@
       "email": "antanas@info.com",
       "password": "123456",
       "id": 2
+    },
+    {
+      "username": "Petras",
+      "email": "petras@info.com",
+      "password": "123456",
+      "id": 3
     }
   ],
   "posts": [
@@ -31,6 +37,12 @@
       "post": "Kur vykti atostogauti?",
       "time_created": "2022-07-19",
       "id": 3
+    },
+    {
+      "user_id": 3,
+      "post": "Kaip laikotės?",
+      "time_created": "2022-07-19",
+      "id": 4
     }
   ],
   "answers": [
@@ -69,6 +81,36 @@
       "post_id": 1,
       "answer": "Prastas",
       "id": 6
+    },
+    {
+      "user_id": 1,
+      "post_id": 3,
+      "answer": "Į Italija!",
+      "id": 7
+    },
+    {
+      "user_id": 3,
+      "post_id": 1,
+      "answer": "Kodėl prastas? Pas mane puikus!",
+      "id": 8
+    },
+    {
+      "user_id": 3,
+      "post_id": 2,
+      "answer": "Futbolas!",
+      "id": 9
+    },
+    {
+      "user_id": 3,
+      "post_id": 3,
+      "answer": "Pasinaudosiu šiais pasiūlymais!",
+      "id": 10
+    },
+    {
+      "user_id": 3,
+      "post_id": 4,
+      "answer": "Puikiai!",
+      "id": 11
     }
   ]
 }
