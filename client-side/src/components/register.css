@@ -1,0 +1,26 @@
+.mainRegistration {
+  background-color: #dee2e6;
+  text-align: center;
+  margin: 0 auto;
+  width: 450px;
+  border-radius: 8px;
+}
+
+.loginRegisterForm input {
+  margin-bottom: 12px;
+  border: 1px solid #fff;
+}
+
+.login-register {
+  border: none;
+  background-color: #51cf66;
+  padding: 8px 24px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  transition: all ease 0.5s;
+  font-weight: bold;
+}
+
+.login-register:hover {
+  background-color: #8ce99a;
+}
